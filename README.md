@@ -6,6 +6,7 @@ leetcode problems submissions
 - [19-remove-nth-node-from-end-of-list](./19-remove-nth-node-from-end-of-list.go)
 - [20-valid-parentheses](./20-valid-parentheses.go)
 - [21-merge-two-sorted-lists](./21-merge-two-sorted-lists.go)
+- [26-remove-duplicates-from-sorted-sorted-array](./26-remove-duplicates-from-sorted-array.go)
 - [125-valid-palindrome](./125-vaild-palindrome.go)
 - [141-linked-list-cycle](./141-linked-list-cycle.go)
 - [155-min-stack](./155-min-stack.go)
