@@ -10,6 +10,7 @@ leetcode problems submissions
 - [141-linked-list-cycle](./141-linked-list-cycle.go)
 - [155-min-stack](./155-min-stack.go)
 - [206-reverse-linked-list](./206-reverse-linked-list.go)
+- [496-next-greater-element-i](./496-next-greater-element-i.go)
 - [682-baseball-game](./682-baseball-game.go)
 - [844-backspace-string-compare](./844-backspace-string-compare.go)
 - [876-middle-of-the-lined](./876-middle-of-the-linked-list.go)
