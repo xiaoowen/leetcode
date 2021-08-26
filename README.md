@@ -16,3 +16,4 @@ leetcode problems submissions
 - [844-backspace-string-compare](./844-backspace-string-compare.go)
 - [876-middle-of-the-lined](./876-middle-of-the-linked-list.go)
 - [1154-day-of-the-year](./1154-day-of-the-year.go)
+- [1410-html-entity-parser](./1410-html-entity-parser.go)
